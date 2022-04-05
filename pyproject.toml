@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "practice"
-version = "0.0.1"
+version = "0.0.2"
 description = "nothing to say"
 authors = ["dengmingcong <mc.deng@outlook.com>"]
 
