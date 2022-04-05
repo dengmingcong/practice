@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "test"
+name = "practice"
 version = "0.1.0"
 description = "nothing to say"
 authors = ["dengmingcong <mc.deng@outlook.com>"]
