@@ -8,6 +8,9 @@ authors = ["dengmingcong <mc.deng@outlook.com>"]
 python = "^3.9"
 python-semantic-release = "^7.27.1"
 pytest = "^7.1.1"
+PyYAML = "^6.0"
+pydantic = "^1.9.0"
+allure-pytest = "^2.9.45"
 
 [tool.poetry.dev-dependencies]
 
